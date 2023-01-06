@@ -1,0 +1,38 @@
+{"intents": [
+  {"tags":  "greetings",
+  "patterns": ["Hello", "hi", "hey", "what's up", "good day"],
+  "response": ["Hello", "Hey!", "What can i do for you?", "How can i help you?"]
+  },
+  {"tags":  "greetings",
+  "patterns": ["Hello", "hi", "hey", "what's up", "good day"],
+  "response": ["Hello", "Hey!", "What can i do for you?", "How can i help you?"]
+  },
+  {"tags":  "greetings",
+  "patterns": ["Hello", "hi", "hey", "what's up", "good day"],
+  "response": ["Hello", "Hey!", "What can i do for you?", "How can i help you?"]
+  },
+  {"tags":  "greetings",
+  "patterns": ["Hello", "hi", "hey", "what's up", "good day"],
+  "response": ["Hello", "Hey!", "What can i do for you?", "How can i help you?"]
+  },
+  {"tags":  "greetings",
+  "patterns": ["Hello", "hi", "hey", "what's up", "good day"],
+  "response": ["Hello", "Hey!", "What can i do for you?", "How can i help you?"]
+  },
+  {"tags":  "greetings",
+  "patterns": ["Hello", "hi", "hey", "what's up", "good day"],
+  "response": ["Hello", "Hey!", "What can i do for you?", "How can i help you?"]
+  },
+  {"tags":  "greetings",
+  "patterns": ["Hello", "hi", "hey", "what's up", "good day"],
+  "response": ["Hello", "Hey!", "What can i do for you?", "How can i help you?"]
+  },
+  {"tags":  "greetings",
+  "patterns": ["Hello", "hi", "hey", "what's up", "good day"],
+  "response": ["Hello", "Hey!", "What can i do for you?", "How can i help you?"]
+  },
+  {"tags":  "greetings",
+  "patterns": ["Hello", "hi", "hey", "what's up", "good day"],
+  "response": ["Hello", "Hey!", "What can i do for you?", "How can i help you?"]
+  }
+]}
